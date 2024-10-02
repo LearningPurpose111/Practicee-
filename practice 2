@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en-CA" >
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Impact 3d</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//code.jquery.com' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//joekang.co' />
+<link rel='dns-prefetch' href='//player.vimeo.com' />
+<link rel='dns-prefetch' href='//assets.codepen.io' />
+<link rel='dns-prefetch' href='//unpkg.com' />
+<link rel="alternate" type="application/rss+xml" title="Impact 3d &raquo; Feed" href="https://impactdesign.co.in/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Impact 3d &raquo; Comments Feed" href="https://impactdesign.co.in/comments/feed/" />
